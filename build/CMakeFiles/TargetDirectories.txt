@@ -1,0 +1,3 @@
+D:/Aly/Software Course/Projects/Sudoku Project/build/CMakeFiles/SudokuProject.dir
+D:/Aly/Software Course/Projects/Sudoku Project/build/CMakeFiles/edit_cache.dir
+D:/Aly/Software Course/Projects/Sudoku Project/build/CMakeFiles/rebuild_cache.dir
