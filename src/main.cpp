@@ -2,9 +2,6 @@
 #include "../include/SudokuSolver.hpp"
 #include "../include/SudokuGame.hpp"
 #include <iostream>
-
-
-
 int main()
 {
     SudokuGame game;
